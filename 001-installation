@@ -1,2 +1,11 @@
 Installing CLI:
-npm install -g @angular/cli
+    npm install -g @angular/cli
+
+Creating a new angular project:
+    ng new <project-name>
+        ie. ng new angular-tour-of-heroes
+
+
+Creating a new component:
+    ng generate component <name-of-component>
+        ie. ng generate component course-card or ng g c course-card
