@@ -1,0 +1,5 @@
+Features:
+01. Change detection mechanism that automatically synchronizes the model and view.
+02. Ability to define custom html tags and extend standard browser functionality.
+03. Clear separation of model and view. Uses component mechanism that coordinated the interaction between model and view.
+04. Securely updates the view.
